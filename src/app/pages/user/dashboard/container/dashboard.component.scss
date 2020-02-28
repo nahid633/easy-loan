@@ -1,0 +1,19 @@
+.features-box .icon{
+top: 16px!important;
+}
+.features-box-list {
+  margin-left: 0;
+}
+@media (min-width: 992px){
+.col-lg-5 {
+  -ms-flex: 0 0 30.666667%;
+  flex: 0 0 30.666667%;
+  max-width: 30.666667%;
+}
+}
+.single-how-it-works:hover{
+  transform: none;
+}
+.single-how-it-works{
+ min-height: 450px;
+}
